@@ -5,3 +5,5 @@ It makes use of the engine code to extend several features by request of the com
 
 This GitHub repo contains the issue tracker for Portal 2: Community Edition. The current part-time maintainer of P2CE is CitadelCore.
 Feel free to open issues for feature/bugfix requests, however communication will be limited to a minimum as developers are bound by a NDA.
+
+Are you a Source licensee and want to contribute to the P2CE codebase? Let me know via the TWP discord or drop me an email at <josephmarsden@towerdevs.xyz>.
