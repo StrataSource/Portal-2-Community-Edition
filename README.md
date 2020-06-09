@@ -1,6 +1,6 @@
-# Portal 2: Enhanced (Chaos Engine)
+# Portal 2: Community Edition
 
-Portal 2: Enhanced is a custom Portal 2 mod base which Revolution extends.
-It makes use of the engine code to extend several features by request of the community and make many quality improvements such as bugfixes, security fixes, and modding tool improvements.
+Portal 2: Community Edition is a custom community made engine branch of Valve's Portal 2 made to bring more features to modders and mappers of the game. The engine is based of CS:GO with all Portal 2 features reimplemented as well as a bunch of new additions!
 
-This GitHub repo contains the issue tracker for Portal 2: Enhanced.
+This GitHub repository is used as a task tracker and does not contain P2CE's source code.  
+For more information, visit [our website](https://www.portal2communityedition.com) our join our [Discord Server](https://discord.gg/NcHSmgb)
