@@ -4,3 +4,5 @@ Portal 2: Community Edition is a custom community made engine branch of Valve's 
 
 This GitHub repository is used as a task tracker and does not contain P2CE's source code.  
 For more information, visit [our website](https://www.portal2communityedition.com) or join our [Discord Server](https://discord.gg/NcHSmgb)
+
+P2CE's custom Hammer editor FGD, editor icons and more are found on [this](https://github.com/ChaosInitiative/P2CE-FGD) repository.
