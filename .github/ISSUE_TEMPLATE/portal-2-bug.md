@@ -14,7 +14,7 @@ A clear description of what the bug is. Feel free to add pictures or videos (The
 Steps to reproduce the behavior:
 1. Open map ...
 2. Do ...
-4. See error
+3. See error
 
 ### Expected behavior
 A clear and concise description of what you expected to happen.
