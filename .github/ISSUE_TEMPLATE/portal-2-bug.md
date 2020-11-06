@@ -1,6 +1,6 @@
 ---
 name: Portal 2 Bug
-about: Submit bugs from Portal 2 here.
+about: Submit bugs from Portal 2 here
 title: 'P2 Bug:'
 labels: type/bug
 assignees: ''
