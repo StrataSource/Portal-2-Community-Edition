@@ -9,9 +9,9 @@ For more information, visit [our website](https://www.portal2communityedition.co
 Before submitting an issue, please first discuss it on our [Discord Server](https://discord.gg/NcHSmgb).
 
 Issues should..
-- Be _singular_ task that can be _completed_ independently
-- Include all necessary information to understand the meaning without having to ask
-- Only regard the game P2CE itself and not Portal 2 or other open source repositories. Open your issue there
+- be a _singular_ task that can be _completed_ independently
+- include all necessary information to understand the meaning without having to ask
+- only regard the game P2CE itself and not Portal 2 or other open source repositories. Open your issue there
 
 
 ## Other Repositories
