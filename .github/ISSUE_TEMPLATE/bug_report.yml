@@ -1,0 +1,40 @@
+name: Bug Report
+description: Submit a bug
+title: "Bug: <Title>"
+labels: [type/bug]
+body:
+- type: textarea
+  attributes:
+    label: Describe the bug
+    description: A clear description of what the bug is. Feel free to add pictures or videos (They really help!)
+    placeholder: |
+      When I do X then Y happens.
+    render: markdown
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: To Reproduce
+    description: Steps to reproduce the behavior&#58;
+    render: markdown
+    placeholder: |
+      1. Open map ...
+      2. Do ...
+      3. See error
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Behavior
+    description: A clear and concise description of what you expected to happen.
+    render: markdown
+    placeholder: |
+      When I do X then Z should happen.
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Operating System
+    description: (Optional&#58; Only if OS Specific)
+  validations:
+    required: false
