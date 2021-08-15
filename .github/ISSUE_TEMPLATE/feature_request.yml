@@ -13,7 +13,6 @@ body:
   attributes:
     label: Describe your suggestion
     description: Give a clear explanation of what you want us to add. Feel free to add pictures or video!
-    render: markdown
     placeholder: |
       Please don't give vague suggestions like "Make button look better" or "Add entity that damages the player".
       Think, how does it work. What are the inputs. What is the expected outcome?
@@ -24,7 +23,6 @@ body:
   attributes:
     label: Expected result
     description: Describe how the end result should look like and work.
-    render: markdown
     placeholder: |
       When I do X I want Y to happen.
   validations:
