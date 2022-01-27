@@ -19,11 +19,3 @@ body:
       Please discuss your request on [Discord](https://discord.gg/NcHSmgb) before submitting an issue!
   validations:
     required: true
-- type: textarea
-  attributes:
-    label: Expected result
-    description: Describe how the end result should look like and work.
-    placeholder: |
-      When I do X I want Y to happen.
-  validations:
-    required: true
