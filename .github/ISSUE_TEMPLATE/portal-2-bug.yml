@@ -1,7 +1,7 @@
 name: Portal 2 Bug Report
 description: Submit a Portal 2 bug
 title: "Portal 2 Bug: <Title>"
-labels: [type/bug]
+labels: [Type: bug]
 body:
 - type: textarea
   attributes:
