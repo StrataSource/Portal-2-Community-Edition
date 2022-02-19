@@ -1,7 +1,7 @@
 name: Bug Report
 description: Submit a bug
 title: "Bug: <Title>"
-labels: [type/bug]
+labels: [Type: bug]
 body:
 - type: textarea
   attributes:
