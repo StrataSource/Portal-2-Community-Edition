@@ -1,7 +1,7 @@
-name: Portal 2 Bug Report
-description: Submit a bug report related to the Portal 2 campaign in P2CE
-title: "Portal 2 Bug: <Title>"
-labels: ["Type: bug", "Compat: Portal 2"]
+name: Portal 1 Bug Report
+description: Submit a bug report related to Portal 1 maps, entities or other features in P2CE
+title: "Portal 1 Bug: <Title>"
+labels: ["Type: bug", "Compat: Portal 1"]
 body:
 - type: textarea
   attributes:
