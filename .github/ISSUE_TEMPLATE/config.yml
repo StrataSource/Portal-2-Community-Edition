@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Hammer Bug Report
+    url: https://github.com/StrataSource/Engine/issues/new?assignees=&labels=Type%3A+Bug%2CWhat%3A+Hammer&projects=&template=bug_report.yml&title=Hammer+Bug%3A+%3CTitle%3E
+    about: Submit a bug report related to Hammer
+  - name: Hammer Feature Request
+    url: https://github.com/StrataSource/Engine/issues/new?assignees=&labels=Type%3A+Feature%2CWhat%3A+Hammer&projects=&template=feature_request.yml&title=Hammer+Feature%3A+%3CTitle%3E
+    about: Submit a bug report related to Hammer
+
