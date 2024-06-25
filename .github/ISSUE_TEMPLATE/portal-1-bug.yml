@@ -1,7 +1,7 @@
-name: Portal 1 Bug Report
+name: Portal 1 Compat Bug Report
 description: Submit a bug report related to Portal 1 maps, entities or other features in P2CE
-title: "Portal 1 Bug: <Title>"
-labels: ["Type: bug", "Compat: Portal 1"]
+title: "Portal 1 Compat Bug: <Title>"
+labels: ["Type: Bug", "Compat: Portal 1"]
 body:
 - type: textarea
   attributes:
