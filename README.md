@@ -1,10 +1,9 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".assets/logo_white.svg">
-    <img width=384 src=".assets/logo_black.svg">
+    <source media="(prefers-color-scheme: dark)" srcset=".assets/logo_white.svg"/>
+    <img width=384 src=".assets/logo_black.svg" alt="Portal 2: Community Edition Logo"/>
   </picture>
 </p>
-# Portal 2: Community Edition
 
 Portal 2: Community Edition is a custom community made engine branch of Valve's Portal 2 made to bring more features to modders and mappers of the game.
 P2:CE is built on top of [Strata Source](https://stratasource.org/), a community maintained fork of the CS:GO engine.
@@ -12,7 +11,7 @@ P2:CE is built on top of [Strata Source](https://stratasource.org/), a community
 This GitHub repository is used as a task tracker and does not contain P2:CE's source code.  
 For more information, visit [our website](https://www.portal2communityedition.com) or join our [Discord Server](https://p2ce.org/discord).
 
-## Issue guidelines
+## Issue Guidelines
 Issues should..
 - be a _singular_ task that can be _completed_ independently
 - include all necessary information to understand the meaning without having to ask
