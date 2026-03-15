@@ -12,9 +12,9 @@ This GitHub repository is used as a task tracker and does not contain P2:CE's so
 For more information, visit [our website](https://www.portal2communityedition.com) or join our [Discord Server](https://p2ce.org/discord).
 
 ## Issue Guidelines
-Issues should:
-- be a _singular_ task that can be _completed_ independently
-- include all necessary information to understand the meaning without having to ask
+Issues should...
+- be a _singular_ task that can be _completed_ independently.
+- include all necessary information to understand the meaning without having to ask.
 - only regard the game P2:CE itself and not Portal 2 or other open source repositories. Open your issue there.
 
 General issues related to engine features and tools should be opened on the [Engine issue tracker](https://github.com/StrataSource/Engine).
