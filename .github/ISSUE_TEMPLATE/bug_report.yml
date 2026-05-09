@@ -1,6 +1,6 @@
 name: Bug Report
 description: Submit a bug
-title: "Bug: <Title>"
+title: "Bug: "
 labels: ["Type: Bug"]
 body:
 - type: textarea
@@ -14,7 +14,7 @@ body:
 - type: textarea
   attributes:
     label: Issue Map
-    description: A map that the issue occurs on. 
+    description: A map that the issue occurs on.
     placeholder: |
       Please explicitly state what map the issue occurs on. If this is not a default map, include a download link to the BSP, VMF, or both.
   validations:
@@ -27,6 +27,14 @@ body:
       1. Open map ...
       2. Do ...
       3. See error
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Currently Downloaded Addons & Mounted Content
+    description: Please run the `workshop_list` and `path` commands in the Console and paste their outputs here please.
+    placeholder: |
+      Run `workshop_list` and `path`, paste the outputs here.
   validations:
     required: true
 - type: input

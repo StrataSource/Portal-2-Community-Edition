@@ -1,6 +1,6 @@
 name: Portal 1 Compat Bug Report
 description: Submit a bug report related to Portal 1 maps, entities or other features in P2CE
-title: "Portal 1 Compat Bug: <Title>"
+title: "Portal 1 Compat Bug: "
 labels: ["Type: Bug", "Compat: Portal 1"]
 body:
 - type: textarea
@@ -19,6 +19,14 @@ body:
       1. Open map ...
       2. Do ...
       3. See error
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Currently Downloaded Addons & Mounted Content
+    description: Please run the `workshop_list` and `path` commands in the Console and paste their outputs here please.
+    placeholder: |
+      Run `workshop_list` and `path`, paste the outputs here.
   validations:
     required: true
 - type: input
