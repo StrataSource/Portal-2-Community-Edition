@@ -1,6 +1,6 @@
 name: Half-Life 2 Compat Bug Report
 description: Submit a bug report related to Half-Life 2 maps, entities or other features in P2CE
-title: "Half-Life 2 Compat Bug: <Title>"
+title: "Half-Life 2 Compat Bug: "
 labels: ["Type: Bug", "Priority: Very Low", "Compat: Half-Life 2"]
 body:
 - type: textarea
