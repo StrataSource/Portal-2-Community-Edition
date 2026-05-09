@@ -21,6 +21,14 @@ body:
       3. See error
   validations:
     required: true
+- type: textarea
+  attributes:
+    label: Currently Downloaded Addons & Mounted Content
+    description: Please run the `workshop_list` and `path` commands in the Console and paste their outputs here please.
+    placeholder: |
+      Run `workshop_list` and `path`, paste the outputs here.
+  validations:
+    required: true
 - type: input
   attributes:
     label: Operating System
